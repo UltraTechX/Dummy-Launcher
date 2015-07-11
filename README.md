@@ -2,6 +2,7 @@
 A Java-Based Application Launcher for Windows
 # How To Compile
 just import the files into your eclipse workspace and that is it!
+
 Zip : so for example, i have my workspace at C:\Users|UltraTechX\Desktop\Garrett A
 I would extract the folder inside the zip file to my workspace location. Done!
 
