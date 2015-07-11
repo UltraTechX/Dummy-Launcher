@@ -2,8 +2,11 @@
 A Java-Based Application Launcher for Windows
 # How To Compile
 just import the files into your eclipse workspace and that is it!
-so for example, i have my workspace at C:\Users|UltraTechX\Desktop\Garrett A
-so i would either download the zip of this, then extract the folder inside to your workspace.
+Zip : so for example, i have my workspace at C:\Users|UltraTechX\Desktop\Garrett A
+I would extract the folder inside the zip file to my workspace location. Done!
+
+Cloning : After it finishes cloning it right click it in the github desktop application and click "Show in explorer".
+Then, go back on directory when it opens and in the file area you should see Dummy-Launcher-master, copy that into your workspace. Done!
 #Installers
 Nope! All of the files are inside the compiled project! And the files that can be loaded faster if extracted can be found at C:\Program Data\Dummy Launcher
 #Windows Only?
